@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --hint-of-yellow: #f7fef1;
+}
+
+body {
+    background-color: var(--hint-of-yellow);
+}
